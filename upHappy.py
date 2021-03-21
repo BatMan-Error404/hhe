@@ -242,7 +242,7 @@ def action():
         action()
     print 50* '\033[1;91m-'
     xxx = str(len(id))
-    jalan ('\033[1;91m Total ids number: '+xxxx)
+    jalan ('\033[1;91m Total ids number: '+xxx)
     jalan ('\033[1;92mCode you choose: '+c)
     jalan ("\033[1;92mBlackTiger██████▒▒▒..99%Start Cracking...")
     jalan ("\033[1;92mTo Stop Process Press Ctrl+z")
